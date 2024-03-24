@@ -3,7 +3,6 @@
     <!-- <h1 class="text-left font-bold text-6xl pb-8 pt-12 rainbow-text md:text-center">
       飞起来的 <br> 性别独角兽
     </h1> -->
-    {{ $t("message.hello") }}
     <!-- {{ $t('message.hello') }} -->
 
     <div class="flex flex-col justify-between items-stretch pages">

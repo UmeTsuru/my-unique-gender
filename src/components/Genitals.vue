@@ -9,7 +9,7 @@
     </h2>
     <div>
       <div class="flex justify-between">
-        <span>{{ $t("message.hello") }}</span>
+        <span>阴道</span>
         <span>未分化</span>
         <span>阴茎</span>
       </div>

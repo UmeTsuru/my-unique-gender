@@ -14,7 +14,6 @@ const messages = {
   "zh-CN": {
     message: {
       hello: "你好",
-      test: "测试",
     },
   },
 };
